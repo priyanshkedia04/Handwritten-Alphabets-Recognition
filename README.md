@@ -1,5 +1,4 @@
 # Handwritten-Alphabets-Recognition
-
 This code helps you recognize Handwritten English Alphabets using Convnets with an accuracy above 99%
 
 Handwritten A-Z Alphabet Dataset from Kaggle was used to train the model. It was further used to develop a program to recognize Handwritten Text on paper and is totally suitable for real-life examples. The dataset had 3,72,450 (28x28 px) images with 26 Labels (A-Z). Out of these 0.1% was used for validation and testing each.
