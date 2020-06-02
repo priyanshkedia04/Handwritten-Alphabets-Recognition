@@ -7,5 +7,7 @@ Handwritten A-Z Alphabet Dataset from Kaggle was used to train the model. It was
 Keras API with Tensorflow in the backend was used to build the Deep Neural Network. OpenCV was used to detect multiple alphabets in a single image using Contours.
 
 Training Accuracy: 99.02%
+
 Validation Accuracy: 99.19%
+
 Test Accuracy: 99.44%
