@@ -39,6 +39,7 @@ Test Accuracy: 99.44%
 There are 4 phases of this program, run each of them.
 
 * Train a Deep Convolutional Neural Network to recognize Hand-written Alphabets A-Z (Capital Letters).
+* Take a Test image with capital alphabets written on a White plain sheet. 
 * Localize and Detect multiple Alphabets in the in the Binary Threshold image using Contours Detection method of OpenCV 
 * Classify the selected Contours using the Trained DCNN model
 
