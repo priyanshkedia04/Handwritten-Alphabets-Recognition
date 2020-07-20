@@ -10,3 +10,52 @@ Training Accuracy: 99.02%
 Validation Accuracy: 99.19%
 
 Test Accuracy: 99.44%
+ ## Getting Started
+
+### Dependencies
+
+* Jupyter Notebook required
+
+* Python Libraries
+
+    - Imutils
+    - Tensorflow
+    - Keras
+    - Numpy
+    - cv2
+    - os
+    - Scikit-Learn
+    - Matplotlib
+
+### Installing
+
+* Download Jupyter Notebook
+
+* No further installation
+
+
+### Executing program
+
+There are 4 phases of this program, run each of them.
+
+* Train a Deep Convolutional Neural Network to recognize Hand-written Alphabets A-Z (Capital Letters).
+* Localize and Detect multiple Alphabets in the in the Binary Threshold image using Contours Detection method of OpenCV 
+* Classify the selected Contours using the Trained DCNN model
+
+## Help
+
+Installing the libraries beforehand will solve most issues
+
+## Authors
+
+Contributors names and contact info 
+ex. [@priyanshkedia04](https://github.com/priyanshkedia04)
+
+## Version History
+
+* 0.1
+    * Initial Release
+
+## License
+
+GNU General Public License v3.0
