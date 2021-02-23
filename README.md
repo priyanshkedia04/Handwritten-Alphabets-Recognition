@@ -11,8 +11,10 @@ Validation Accuracy: 99.19%
 
 Test Accuracy: 99.44%
 
-![] Results/R1.png
- ## Getting Started
+![](Results/R1.png)
+![](Results/R2.png)
+![](Results/R3.png)
+## Getting Started
 
 ### Dependencies
 
