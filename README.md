@@ -10,6 +10,8 @@ Training Accuracy: 99.02%
 Validation Accuracy: 99.19%
 
 Test Accuracy: 99.44%
+
+![] Results/R1.png
  ## Getting Started
 
 ### Dependencies
